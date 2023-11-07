@@ -6,3 +6,9 @@ class Vaca(Animal):
 
 class Bufalo(Animal):
     pass
+
+class Chancho(Animal):
+    pass
+
+class Oveja(Animal):
+    pass
